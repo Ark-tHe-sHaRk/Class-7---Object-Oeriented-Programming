@@ -4,7 +4,7 @@ class parrot:
     species = "bird"
 
     #instance attribute
-    def _iniit_(self, name, age):
+    def _init_(self, name, age):
         self.name = name
         self.age = age
 
